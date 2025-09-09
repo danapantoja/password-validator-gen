@@ -1,6 +1,6 @@
 # Password Generator/ Validator
 
-##Using Java Swing
+## Using Java Swing
 
 An application that creates strong passwords based on the following criteria:
 
